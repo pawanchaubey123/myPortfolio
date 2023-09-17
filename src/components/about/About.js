@@ -10,16 +10,14 @@ const About = ({ about }) => {
     <AboutWrap load={about}>
       <div className="left">
         <h1>About Me</h1>
-        <p style={{ marginTop: "0" }}>I'm a Full stack Developer.</p>
+        <p style={{ marginTop: "0" }}>I'm a Full Stack Developer with 3 years of experience.</p>
 
         <p>
-          I offer software solutions which mainly revolves around developing
-          interactive and appealing web application.
+          I specialize in developing interactive and visually appealing web applications, providing comprehensive software solutions.
         </p>
 
         <p>
-          My goal is to provide a good experience to the customer and complete
-          the work within time.
+        My goal is to ensure a superior customer experience while consistently delivering projects on time.
         </p>
 
         <p>I make websites that are :</p>

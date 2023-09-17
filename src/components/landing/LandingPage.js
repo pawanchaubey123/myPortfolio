@@ -14,7 +14,7 @@ const LandingPage = ({scrollingTo}) => {
     <LandingWrap backImg={codingPic} load = {load}>
       <div className='content'>
       <h1>
-        Hello I'm  <a href="https://github.com/pawan123e" target="_blank" rel="noopener noreferrer"><span className="name">Pawan Kumar.</span></a>
+        Hello I'm  <a href="https://github.com/pawanchaubey123" target="_blank" rel="noopener noreferrer"><span className="name">Pawan Kumar.</span></a>
       </h1>
       <h1>I'm a full-stack developer.</h1>
       <button onClick = {() => scrollingTo('projects')}>Go to Projects</button>

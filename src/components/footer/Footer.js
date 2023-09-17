@@ -4,9 +4,9 @@ import styled from 'styled-components'
 const Footer = () => {
     return (
         <FooterWrap><div className='icon'>
-           <a href="https://github.com/pawan123e" target="_blank" rel="noopener noreferrer"><i className="fab fa-github fa-2x git"></i></a> 
+           <a href="https://github.com/pawanchaubey123" target="_blank" rel="noopener noreferrer"><i className="fab fa-github fa-2x git"></i></a> 
            <a href='https://www.linkedin.com/in/pawan-kumar-53250192/' target = '_blank' rel="noopener noreferrer"><i className="fab fa-linkedin-in fa-2x link"></i></a>
-           <a href = 'https://codepen.io/pawan123e' target = '_blank' rel="noopener noreferrer"><i className="fab fa-codepen"></i></a>
+           <a href = 'https://codepen.io/pawanchaubey123' target = '_blank' rel="noopener noreferrer"><i className="fab fa-codepen"></i></a>
            </div>
            <p><span className='name'>PAWAN KUMAR</span> &copy; 2021. All right reserved</p>
            

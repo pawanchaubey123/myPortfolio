@@ -43,7 +43,7 @@ const Projects = ({ project }) => {
             </div>
             <div className="project_detail_bottom">
               <a href="http://govtnotify.herokuapp.com/" target="_blank" rel="noopener noreferrer"><button className="siteBtn btn">View Site</button></a>
-              {/* <a href="https://github.com/pawan123e/govJob" target="_blank" rel="noopener noreferrer"><button className="codeBtn btn">View Code</button></a> */}
+              {/* <a href="https://github.com/pawanchaubey123/govJob" target="_blank" rel="noopener noreferrer"><button className="codeBtn btn">View Code</button></a> */}
             </div>
           </div>
         </div>
@@ -55,7 +55,7 @@ const Projects = ({ project }) => {
             <div className="project_detail_top">
               <h2 className="project_detail_top_heading">Electro kart</h2>
               <p>
-                An e-commerce site for electronics devices. A customer can buy products after login to their account. Payment stripe is used for payments. Authentication is also enabled.
+              An e-commerce site for electronics devices. Customers can buy products after logging into their accounts. Payment processing is handled through Stripe, with authentication also enabled.
               </p>
               <div className="project_detail_top_skill">
                 <p>React</p>
@@ -66,7 +66,7 @@ const Projects = ({ project }) => {
             </div>
             <div className="project_detail_bottom">
               <a href="http://electrokart.herokuapp.com/" target="_blank" rel="noopener noreferrer"><button className="siteBtn btn">View Site</button></a>
-              <a href="https://github.com/pawan123e/Electro-commerce" target="_blank" rel="noopener noreferrer"><button className="codeBtn btn">View Code</button></a>
+              <a href="https://github.com/pawanchaubey123/Electro-commerce" target="_blank" rel="noopener noreferrer"><button className="codeBtn btn">View Code</button></a>
             </div>
           </div>
         </div>
@@ -78,7 +78,7 @@ const Projects = ({ project }) => {
             <div className="project_detail_top">
               <h2 className="project_detail_top_heading">Dev Junction</h2>
               <p>
-                A website where users can create a profile and view other's profiles. A user can create, delete, and view posts. A user can also comment on the post and like the posts.
+              A website allows users to create profiles and view others' profiles. Users have the capability to create, delete, and view posts, as well as comment on and like posts.
               </p>
               <div className="project_detail_top_skill">
                 <p>React</p>
@@ -89,7 +89,7 @@ const Projects = ({ project }) => {
             </div>
             <div className="project_detail_bottom">
               <a href="https://dev-social-web-apps.herokuapp.com/" target="_blank" rel="noopener noreferrer"><button className="siteBtn btn">View Site</button></a>
-              <a href="https://github.com/pawan123e/dev" target="_blank" rel="noopener noreferrer"><button className="codeBtn btn">View Code</button></a>
+              <a href="https://github.com/pawanchaubey123/dev" target="_blank" rel="noopener noreferrer"><button className="codeBtn btn">View Code</button></a>
             </div>
           </div>
         </div>
