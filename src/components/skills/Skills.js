@@ -10,6 +10,8 @@ import express from "../../images/skill logos/express.png";
 import mongo from "../../images/skill logos/mongodb.png";
 import postgre from "../../images/skill logos/postgresql.png";
 import nextjs from '../../images/skill logos/nextjs.png'
+import graphql from '../../images/skill logos/graphql.png'
+import typescript from '../../images/skill logos/typescript.png'
 
 const Skills = ({skill}) => {
   return (
@@ -65,6 +67,14 @@ const Skills = ({skill}) => {
             <div className="skill express">
               <img src={express} alt="express" />
               <p>Express</p>
+            </div>
+            <div className="skill express">
+              <img src={typescript} alt="express" />
+              <p>TypeScript</p>
+            </div>
+            <div className="skill express">
+              <img src={graphql} alt="express" />
+              <p>GraphQL</p>
             </div>
            
           </div>
