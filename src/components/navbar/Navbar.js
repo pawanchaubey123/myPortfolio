@@ -112,7 +112,7 @@ const Navbar = ({scrollingTo}) => {
         <p onClick = {() => scrollingTo('about')}> ABOUT </p>
         <p onClick = {() => scrollingTo('skills')}> SKILLS </p>
         <p onClick = {() => scrollingTo('projects')}> PROJECTS </p>
-        <a href = 'https://drive.google.com/file/d/1o-piJpcu44g7tsHAHg1-a3w0xwOtSxT8/view?pli=1' className='link' target='_blank' rel="nofollow noopener noreferrer">
+        <a href = 'https://drive.google.com/file/d/1eEC6w9peIgnxAdOsLHPAZGiFPXk5nyft/view?usp=sharing' className='link' target='_blank' rel="nofollow noopener noreferrer">
           <p>RESUME</p>
         </a>
       </div>  
@@ -125,7 +125,7 @@ const Navbar = ({scrollingTo}) => {
         <p onClick = {() => scrollTo('about')}> ABOUT </p>
         <p onClick = {() => scrollTo('skills')}> SKILLS </p>
         <p onClick = {() => scrollTo('projects')}> PROJECTS </p>
-        <a href = 'https://drive.google.com/file/d/1o-piJpcu44g7tsHAHg1-a3w0xwOtSxT8/view?pli=1' className='link' target='_blank' rel="nofollow noopener noreferrer">
+        <a href = 'https://drive.google.com/file/d/1eEC6w9peIgnxAdOsLHPAZGiFPXk5nyft/view?usp=sharing' className='link' target='_blank' rel="nofollow noopener noreferrer">
           <p>RESUME</p>
         </a>
         </div>
